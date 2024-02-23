@@ -32,3 +32,5 @@ Types of QR codes
 One of the most popular attacks with QR codes is Quishing 
 What is Quishing?
 A quishing attack begins with a cybercriminal creating QR codes that lead to either a fake site or that downloads malware. For example, Attackers tried to gain access to Microsoft credentials by sending fake QRs that lead to sites that look legitimate.
+
+https://lokeshpersonal-my.sharepoint.com/:v:/g/personal/lgottumukkala_lokeshpersonal_onmicrosoft_com/Ef1UGkFKxCxAqyXZ7c66wWsBjiPi6MpDG72BTRlqv8LErQ?e=EK6hj5
